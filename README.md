@@ -1,10 +1,12 @@
-#📄 RESUME-BUILDER-GUI
+**#📄 RESUME-BUILDER-GUI**
+
+
 A simple and user-friendly **GUI-based Resume Builder** built with **Python Tkinter** and **ReportLab**.  
 This application allows users to input their personal details, skills, education, and work experience, and export them as a **professional PDF resume** with just one click.
 
 ---
 
-## 🚀 Features
+**## 🚀 Features**
 - 🖥 **Interactive GUI** built with Tkinter  
 - ✏ **Editable input fields** for personal info, education, skills, and experience  
 - 📂 **Export to PDF** using ReportLab  
@@ -13,7 +15,7 @@ This application allows users to input their personal details, skills, education
 - 🛠 Works on **Windows, macOS, and Linux** (requires Python installed)
 
  ---
-## 🛠 Tech Stack
+**## 🛠 Tech Stack**
 
 - **Python 3.x**
 - **Tkinter** – For GUI  
@@ -21,7 +23,7 @@ This application allows users to input their personal details, skills, education
 
 ---
 
-## 📥 Installation & Setup
+**## 📥 Installation & Setup**
 1. **Clone this repository**  
 
     ```bash
