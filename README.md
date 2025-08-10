@@ -35,15 +35,18 @@ This application allows users to input their personal details, skills, education
 
 **📜 How to Use**
 Enter your name, email, phone, skills, education, and experience.
+
 (Optional) Add a profile picture.
+
 Click "Generate Resume".
-Your PDF will be saved in the project folder (or specified location)
+
+Your PDF will be saved in the project folder (or specified location).
    
 
 **📸 Screenshots\Output**
+
+
 <img width="586" height="843" alt="image" src="https://github.com/user-attachments/assets/d829ec4d-491b-410c-8e12-b897c4e71113" />
-
-
 
 [Vishal Damahe_Resume.pdf](https://github.com/user-attachments/files/21705771/Vishal.Damahe_Resume.pdf)
 
