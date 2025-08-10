@@ -23,17 +23,22 @@ This application allows users to input their personal details, skills, education
 
 ## 📥 Installation & Setup
 1. **Clone this repository**  
-   ```bash
+
+    ```bash
    git clone(https://github.com/VishalDamahe/RESUME-BUILDER-GUI/new/main?readme=1)
    cd resume-builder-gui
 
-2.  **Install dependencies**
+3.  **Install dependencies**
+
       pip install reportlab
 
-3. **Run the application**
+4. **Run the application**
+   
     python resume_builder.py
 
 **📜 How to Use**
+
+
 Enter your name, email, phone, skills, education, and experience.
 
 (Optional) Add a profile picture.
@@ -51,6 +56,7 @@ Your PDF will be saved in the project folder (or specified location).
 [Vishal Damahe_Resume.pdf](https://github.com/user-attachments/files/21705771/Vishal.Damahe_Resume.pdf)
 
 **💡 Future Improvements**
+
 Multiple resume templates
 
 Dark mode support
